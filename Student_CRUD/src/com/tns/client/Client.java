@@ -34,12 +34,12 @@ public class Client
 		//Update Operation
 		
 		
-	/*service.findStudentById(101);
-		System.out.println("ID is: "+student.getStudentid());
-		System.out.println("Name is: "+student.getName());
+	//service.findStudentById(2);
+		//System.out.println("ID is: "+student.getStudentid());
+		//System.out.println("Name is: "+student.getName());
 		
 		
-		// Delete Operation
+		/*// Delete Operation
 		student=service.findStudentById(104);
 		service.removeStudent(student);
 		System.out.println("Row removed");*/
